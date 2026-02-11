@@ -30,9 +30,9 @@ Aucune base de données externe n’a été utilisée.
 ### ▶️ Utilisation
 
 1. Ouvrir le fichier `index.html` dans un navigateur.
-2. Créer un compte avec le bouton **Ajout compte**.
-3. Se connecter avec le bouton **OK**.
-4. Utiliser **Reset** pour vider les champs.
+2. Créer un compte avec le bouton **Créer un compte**.
+3. Se connecter avec le bouton **Se Connecter**.
+4. Utiliser **Effacer** pour vider les champs.
 
 Chaque utilisateur doit créer un compte avant de se connecter.
 
