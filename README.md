@@ -39,6 +39,7 @@ Chaque utilisateur doit créer un compte avant de se connecter.
 ---
 
 ### 📂 Structure du projet
+```
 Projet&/
 ├── index.html
 ├── style.css
@@ -46,3 +47,4 @@ Projet&/
 ├── README.md
 └── logo/
     └── logo_def.png
+```
