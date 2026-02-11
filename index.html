@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- logo -->
+    <img src="logo/logo_def.png" alt="Logo" width="200">
+    <!-- title -->
+    <h2>Formulaire de connexion</h2>
+
+    <!-- input -->
+    <input type="text" id="username" placeholder="Identifiant"><br><br>
+    <input type="password" id="password" placeholder="Mot de passe"><br><br>
+
+    <!-- button -->
+    <button onclick="login()">Se Connecter</button>
+    <button onclick="resetForm()">Effacer</button>
+    <button onclick="addAccount()">Créer un compte</button>
+
+    <p id="message"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
